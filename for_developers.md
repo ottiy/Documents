@@ -14,9 +14,9 @@ ZenhubはGithubのページを拡張してタスクボードを追加してく�
 Todoの管理などはここから行えます。  
 使い方などは検索したら出てきますが、一応学習の参考になるリンクを載せておきます。  
 
-+ Chrome Extension - GitHub をより便利にしてくれる『ZenHub』の使い方
++ Chrome Extension - GitHub をより便利にしてくれる『ZenHub』の使い方  
     http://phiary.me/chrome-extension-zenhub/
-+ スクラムにおけるGitHub/ZenHubの使い方の例(discussion-sidebar編)
++ スクラムにおけるGitHub/ZenHubの使い方の例(discussion-sidebar編)  
     http://dev.classmethod.jp/etc/github-discussion-sidebar/
 
 ###コミットについて
