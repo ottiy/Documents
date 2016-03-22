@@ -1,6 +1,6 @@
-KAYOMI(仮)作成チーム一覧
-KAYOMI(仮)作成チーム一覧
-※順不同
+#KAYOMI(仮)作成チーム一覧
+
+######※順不同
 
 |OriginName|Specialize|Use OS|Use Specification|Use Edit|Comment|
 |:------------|---------:|:-------:|------------------:|--------:|----------:|
